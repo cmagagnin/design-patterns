@@ -17,6 +17,13 @@
     </description>
     <modules>
         <module>strategy</module>
+        <module>state</module>
+        <module>observer</module>
+        <module>decorator</module>
+        <module>adapter</module>
+        <module>singleton</module>
+        <module>builder</module>
+        <module>factory</module>
     </modules>
 
     <properties>
