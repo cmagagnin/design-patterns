@@ -1,0 +1,11 @@
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/adapter/src/main/java/designpattern/AppAdapterDemo.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/adapter/src/main/java/gohorse/aplicacaolegada/ApiPagamentoLegado.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/adapter/src/main/java/designpattern/service/PaymentService.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/adapter/src/main/java/gohorse/Cliente.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/adapter/src/main/java/designpattern/adapters/ModernPaymentAdapter.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/adapter/src/main/java/gohorse/aplicacaomoderna/INovoGatewayPagamento.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/adapter/src/main/java/designpattern/model/PaymentRequest.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/adapter/src/main/java/gohorse/aplicacaomoderna/GatewayPagamentoModerno.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/adapter/src/main/java/designpattern/adapters/LegacyPaymentAdapter.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/adapter/src/main/java/gohorse/aplicacaolegada/ServicoPagamento.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/adapter/src/main/java/designpattern/api/PaymentGateway.java

@@ -1,0 +1,6 @@
+designpattern/adapters/LegacyPaymentAdapter.class
+designpattern/service/PaymentService.class
+designpattern/adapters/ModernPaymentAdapter.class
+designpattern/model/PaymentRequest.class
+designpattern/AppAdapterDemo.class
+designpattern/api/PaymentGateway.class

@@ -1,0 +1,13 @@
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/designpattern/service/FreteCalculator.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/gohorse/Cliente.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/designpattern/model/Pedido.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/designpattern/registry/FreteStrategyRegistry.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/designpattern/strategy/PACFrete.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/designpattern/strategy/FreteStrategy.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/designpattern/strategy/TransportadoraFrete.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/designpattern/AppStrategyDemo.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/designpattern/strategy/FreteTipo.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/gohorse/Pedido.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/designpattern/strategy/UltraSedexFrete.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/designpattern/strategy/SedexFrete.java
+/home/local/Documentos/arquitetura-software/design-patterns/design-patterns/strategy/src/main/java/designpattern/AppStrategyRegistryDemo.java
